@@ -70,18 +70,5 @@ patient_tests.csv
 - Improve filtering for multi-hospital networks
 - Enable voice-based navigation and chatbot
 
-## 📣 Author
-
-**Suraj Singh**  
-📧 [LinkedIn](https://www.linkedin.com/in/surajsingh-cse)  
-
-
-
-📌 GitHub: [SurajSingh-Cse](https://github.com/SurajSingh-Cse)
-
----
-
-⭐ *If you like this project, consider giving it a star on GitHub!*
-
 
 
